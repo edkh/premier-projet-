@@ -1,0 +1,16 @@
+@override:  Le mot-clé @override est utilisé pour définir une méthode 
+qui est héritée de la classe parente.
+
+DriverManager:  Charger et configurer le driver de la base de données. 
+
+Connection   :Réaliser la connexion et l'authentification à la base de 
+données.
+
+Statement (et PreparedStatement)   :Contenir la requête SQL et la transmettre 
+à la base de données.
+
+ResultSet   :Parcourir les informations retournées par la base de données 
+dans le cas d'une sélection de données.
+
+ResultSet:	résultat d'une requête et information sur une table. L'accès se fait enregistrement
+ par enregistrement.
